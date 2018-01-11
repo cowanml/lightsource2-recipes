@@ -32,5 +32,5 @@ test:
     - eiger_io
 
 about:
-  home: https://github.com/CHX-NSLS-II/eiger-io
+  home: https://github.com/NSLS-II-CHX/eiger-io
   license: BSD
